@@ -1,1 +1,1 @@
-SPC-JC（Subtitle Parallel Corpus-Japanese and Chinese）
+A Web Crawled Corpus for Japanese---Chinese Translation
