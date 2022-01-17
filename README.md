@@ -1,1 +1,1 @@
-A Web Crawled Corpus for Japanese---Chinese Translation
+A Web Crawled Corpus for Japanese-Chinese Translation
