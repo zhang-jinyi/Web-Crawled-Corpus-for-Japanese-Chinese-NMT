@@ -32,6 +32,6 @@ CONTACT
 
 For any inquiries about WCC-JC, please contact us by email.
 
-wccjc.contact at gamil.com
+wccjc.contact at gmail.com
 
 at ---> @
