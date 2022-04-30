@@ -31,5 +31,7 @@ If we include your copyrighted works and you want us to delete it, please contac
 CONTACT
 
 For any inquiries about WCC-JC, please contact us by email.
+
 wccjc.contact at gamil.com
+
 at ---> @
