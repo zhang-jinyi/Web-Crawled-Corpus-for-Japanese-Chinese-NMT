@@ -22,10 +22,12 @@ This data may be changed in whole or in part, or provision of this data may be i
 
 
 TAKE DOWN
+
 If we include your copyrighted works and you want us to delete it, please contact us with the following information.
 1. Your name, affiliation and E-mail address.
 2. Detailed information of your copyrighted works.
 3. How we can locate your work in our data such as your domain name.
 
 CONTACT
+
 For any inquiries about WCC-JC, please contact us by email.
