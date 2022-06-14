@@ -1,4 +1,4 @@
-A Web Crawled Corpus for Japanese-Chinese Translation
+A Web Crawled Corpus for Japanese-Chinese NMT
 
 Please cite as：
 Zhang, J.; Tian, Y.; Mao, J.; Han, M.; Matsumoto, T. WCC-JC: A Web-Crawled Corpus for Japanese–Chinese Neural Machine Translation. Appl. Sci. 2022, 12, 6002. https://doi.org/10.3390/app12126002
