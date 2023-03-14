@@ -1,6 +1,6 @@
 A Web Crawled Corpus for Japanese-Chinese NMT
 
-We have additionally manually aligned a WCC-JC version 2.0. There are about 2.15 million sentence pairs after merging with the old version.
+We have additionally manually aligned a WCC-JC version 2.0. There are about 2.15 million sentence pairs after merging with the old version (version 1.0).
 
 If you use the corpus, please cite as：
 
