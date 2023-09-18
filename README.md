@@ -10,6 +10,13 @@ Zhang, J.; Tian, Y.; Mao, J.; Han, M.; Matsumoto, T. WCC-JC: A Web-Crawled Corpu
 
 If you would like to obtain all the data, please contact the following email address while ensuring that it is for your own use only and for research purposes only.
 
+wccjc.contact at gmail.com
+
+at ---> @
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 WCC-JC is distributed under the following license.
 
 Terms of Use for WCC-JC
