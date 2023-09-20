@@ -1,4 +1,5 @@
-A Web Crawled Corpus for Japanese-Chinese NMT
+WCC-JC: A Web Crawled Corpus for Japanese-Chinese NMT
+(An Over 3 Million Parallel Web-Crawled Corpus for Japanese-Chinese Neural Machine Translation)
 
 We have additionally manually aligned a WCC-JC version 2.0. There are about 2.15 million sentence pairs after merging with the old version (version 1.0).
 
@@ -10,7 +11,7 @@ Zhang, J.; Tian, Y.; Mao, J.; Han, M.; Matsumoto, T. WCC-JC: A Web-Crawled Corpu
 
 If you would like to obtain all the data, please contact the following email address while ensuring that it is for your own use only and for research purposes only.
 
-wccjc.contact at gmail.com
+E-mail：wccjc.contact at gmail.com
 
 at ---> @
 
@@ -47,6 +48,6 @@ CONTACT
 
 For any inquiries about WCC-JC, please contact us by email.
 
-wccjc.contact at gmail.com
+E-mail：wccjc.contact at gmail.com
 
 at ---> @
